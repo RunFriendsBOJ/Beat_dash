@@ -17,6 +17,6 @@ public class Object_Jump : MonoBehaviour
     }
     void Jump()
     {
-        transform.Translate(0.0f, 0.2f, 0.0f);
+        transform.Translate(0.0f, 0.3f, 0.0f);
     }
 }
